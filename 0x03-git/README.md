@@ -1,1 +1,1 @@
-My beginning of coding
+Beginning of coding
